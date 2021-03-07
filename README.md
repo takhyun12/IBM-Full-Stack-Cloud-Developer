@@ -6,6 +6,8 @@
 
 This repository is created to keep track of [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) provided by Coursera. This program is developed by IBM and designed to teach how to program in `Virtual private cloud` environment.
 
+This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them.
+
 ## Learning Objectives
 * Develop with `front-end` development languages and tools such as HTML, CSS, JavaScript, React and Bootstrap
 * Program applications using `back-end` languages and frameworks like Express, Node.js, Python, Django, etc.
