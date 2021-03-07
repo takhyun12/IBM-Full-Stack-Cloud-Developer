@@ -21,7 +21,7 @@ This repository is created to keep track of [IBM Full Stack Cloud Developer](htt
 3. Developing `Cloud Native Applications`
 4. Developing Cloud Apps with `Node.js` and `React`
 5. Introduction to Containers w/ `Docker`, `Kubernetes` & `OpenShift`
-6. Python for Data Science, `AI` & Development
+6. Python for `Data Science`, `AI` & Development
 7. Python Project for `AI` & Application Development
 8. Developing Applications with `SQL`, `Databases`, and `Django`
 9. Application Development using `Microservices` and `Serverless`
