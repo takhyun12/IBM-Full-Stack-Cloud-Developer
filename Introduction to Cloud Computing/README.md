@@ -1,5 +1,5 @@
-# Java Programming: Arrays, Lists, and Structured Data
-Certificate of the course that is offered at Coursera, by Duke Universitry.
+# Introduction to Cloud Computing
+Certificate of the course that is offered at Coursera and IBM.
 
 #### Author: Tackhyun Jung
 
