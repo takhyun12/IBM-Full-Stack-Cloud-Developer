@@ -6,7 +6,7 @@ Certificate of the course that is offered at Coursera and IBM.
 #### Status: Completed
 
 This repository is created to keep track of [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) provided by Coursera.
-This program is developed by Duke Universitry and designed to teach how to program with Java Programming.
+This educational program is developed by Duke Universitry and designed to teach how to program with Java Programming.
 
 ![Certificate](https://user-images.githubusercontent.com/41291493/109818536-6eb0d580-7c76-11eb-8f66-54c16f5b3e36.png)
 
