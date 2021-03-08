@@ -16,7 +16,7 @@ This educational program is developed by IBM and designed to teach how to progra
 * Emergent Trends and Practices `week 4`
 * Cloud Security and Monitoring, Case Studies, and Jobs `week 5`
 
-## Note of Overview of Cloud Computing `week 1`
+## Note
 
 ```
 클라우드 컴퓨팅은 인터넷을 통해 서버, 스토리지, 데이터베이스, 네트워킹, 소프트웨어, 분석 등 다양한 컴퓨팅을 서비스를 제공하는 것이다.
