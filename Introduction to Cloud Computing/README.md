@@ -24,8 +24,10 @@ This educational program is developed by IBM and designed to teach how to progra
 1) 클라우드 컴퓨팅의 다섯 가지 원칙
 On-demand Self-service : 사용자가 서비스 관리자의 개입 없이 원하는 시점에 서비스를 바로 사용할 수 있어야 합니다.
 Broad Network Access : 클라우드 서비스 제공자는 네트워크 기반으로 서비스에 접속할 수 있게 해야 합니다.
-Resource Pooling : 물리적인 자원이나 가상화된 자원은 풀(Pool)로 관리되며, 사용자의 요청에 의해 사용자에게 할당되거나 다시 풀로 반환되어야 합니다. 
-Rapid Elasticity : 클라우드 컴퓨팅 서비스를 사용하는 사용자는 자원을 무한대로 확장할 수 있거나 필요한 만큼의 수준으로 마음대로 줄일 수 있어야 합니다.
+Resource Pooling : 물리적인 자원이나 가상화된 자원은 풀(Pool)로 관리되며, 
+사용자의 요청에 의해 사용자에게 할당되거나 다시 풀로 반환되어야 합니다. 
+Rapid Elasticity : 클라우드 컴퓨팅 서비스를 사용하는 사용자는 자원을 무한대로 확장할 수 있거나,
+필요한 만큼의 수준으로 마음대로 줄일 수 있어야 합니다.
 Measured Service : 자원의 사용량이 실시간으로 수집되고 모니터링 되어야 합니다.
 
 2) IaaS(Infrastructure as a Service)
@@ -34,8 +36,14 @@ Measured Service : 자원의 사용량이 실시간으로 수집되고 모니터
 - EBS 서비스(EC2에 연결되는 SSD)
 - VPC 서비스 (네트워크 서비스)
 
-3) PaaS(Platform as a Service 서비스로서의 플랫폼)
-컴퓨터 자원을 포함하여 응용프로그램을 개발할 때 필요한 개발환경, 즉 `플랫폼(프레임워크)`도 함께 제공해주는 것 e.g. `google app engine`
+3) PaaS(Platform as a Service)
+컴퓨터 자원을 포함하여 응용프로그램을 개발할 때 필요한 개발환경, 즉 플랫폼(프레임워크)도 함께 제공해주는 것 예) google app engine
+
+4) SaaS(Software as a Service)
+고객이 프로그래밍 등의 요인에 크게 신경 쓰지 않도록 소프트웨어와 데이터 자체를 제공해주는 서비스. 
+즉, 유지보수와 지원을 간소화하고 비즈니스 자체에만 온전히 집중할 수 있도록 함. 예) 구글 드라이브, 드롭박스 
+
+
 
 
 ```
