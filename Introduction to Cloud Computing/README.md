@@ -28,6 +28,16 @@ Resource Pooling : 물리적인 자원이나 가상화된 자원은 풀(Pool)로
 Rapid Elasticity : 클라우드 컴퓨팅 서비스를 사용하는 사용자는 자원을 무한대로 확장할 수 있거나 필요한 만큼의 수준으로 마음대로 줄일 수 있어야 합니다.
 Measured Service : 자원의 사용량이 실시간으로 수집되고 모니터링 되어야 합니다.
 
+2) IaaS(Infrastructure as a Service)
+- Computing, Networking, storage 등의 인프라를 제공해주는 서비스
+- EC2 서비스(CPU, MEMORY, GPU)
+- EBS 서비스(EC2에 연결되는 SSD)
+- VPC 서비스 (네트워크 서비스)
+
+3) PaaS(Platform as a Service 서비스로서의 플랫폼)
+컴퓨터 자원을 포함하여 응용프로그램을 개발할 때 필요한 개발환경, 즉 `플랫폼(프레임워크)`도 함께 제공해주는 것 e.g. `google app engine`
+
+
 ```
 
 ## Credit
