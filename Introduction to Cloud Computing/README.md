@@ -51,7 +51,7 @@ Hypervisor는 노트북 등의 운영 체제에 배포하거나 서버 등의 �
 운영체제 가상화 : Hypervisor를 통해 Linux 환경과 Windows 환경 등 다양한 운영체제를 동시 사용가능 하도록 지원
 네트워크 기능 가상화(Network Functions Virtualization, NFV) : 네트워크 기능을 분리 및 가상화하여 여러 기능을 단일 물리적 서버에 통합함
 
-6) public cloud, private cloud, hybrid cloud
+6) Public cloud, Private cloud, Hybrid cloud
 public cloud : 클라우드 서비스 공급자가 소유하고 운영하는 환경
 private cloud : 단일 비즈니스 또는 조직에서 독점적으로 사용되는 환경
 hybrid cloud : 온-프레미스 인프라(또는 프라이빗 클라우드)를 퍼블릭 클라우드와 결합하여 사용하는 환경
