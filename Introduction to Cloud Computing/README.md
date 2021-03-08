@@ -53,8 +53,15 @@ Hypervisor는 노트북 등의 운영 체제에 배포하거나 서버 등의 �
 운영체제 가상화 : Hypervisor를 통해 Linux 환경과 Windows 환경 등 다양한 운영체제를 동시 사용가능 하도록 지원
 네트워크 기능 가상화(Network Functions Virtualization, NFV) : 네트워크 기능을 분리 및 가상화하여 여러 기능을 단일 물리적 서버에 통합합니다. 
 
+6) public cloud, private cloud, hybrid cloud
+public cloud : 클라우드 서비스 공급자가 소유하고 운영하는 환경
+private cloud : 단일 비즈니스 또는 조직에서 독점적으로 사용되는 환경
+hybrid cloud : 온-프레미스 인프라(또는 프라이빗 클라우드)를 퍼블릭 클라우드와 결합하여 사용하는 환경
 
-
+7) CDM(Content Delivery Networks)
+콘텐츠 전송 네트워크는 콘텐츠를 효율적으로 전달하기 위해 여러 노드를 가진 네트워크에 데이터를 저장하여 제공하는 시스템을 말한다.
+여러 지역에 분산된 CDN 캐시 서버에 컨텐츠를 미리 캐싱하여 외부 ISP 혹은 IXP를 통해 전송되는 구간의 트래픽 양이 현저히 감소하게 되고,
+이에 따라 ISP는 기존 클라이언트-서버 환경에서 컨텐츠 전송을 위해 소요되던 막대한 회선 비용을 줄일 수 있습니다.
 ```
 
 ## Credit
