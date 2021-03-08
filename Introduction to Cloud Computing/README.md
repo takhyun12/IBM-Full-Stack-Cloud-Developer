@@ -24,10 +24,8 @@ This educational program is developed by IBM and designed to teach how to progra
 1) 클라우드 컴퓨팅의 다섯 가지 원칙
 On-demand Self-service : 사용자가 서비스 관리자의 개입 없이 원하는 시점에 서비스를 바로 사용할 수 있어야 합니다.
 Broad Network Access : 클라우드 서비스 제공자는 네트워크 기반으로 서비스에 접속할 수 있게 해야 합니다.
-Resource Pooling : 물리적인 자원이나 가상화된 자원은 풀(Pool)로 관리되며, 
-사용자의 요청에 의해 사용자에게 할당되거나 다시 풀로 반환되어야 합니다. 
-Rapid Elasticity : 클라우드 컴퓨팅 서비스를 사용하는 사용자는 자원을 무한대로 확장할 수 있거나,
-필요한 만큼의 수준으로 마음대로 줄일 수 있어야 합니다.
+Resource Pooling : 물리적인 자원이나 가상화된 자원은 풀(Pool)로 관리되며, 사용자의 요청에 의해 사용자에게 할당되거나 다시 풀로 반환되어야 합니다. 
+Rapid Elasticity : 클라우드 컴퓨팅 서비스를 사용하는 사용자는 자원을 무한대로 확장할 수 있거나, 필요한 만큼의 수준으로 마음대로 줄일 수 있어야 합니다.
 Measured Service : 자원의 사용량이 실시간으로 수집되고 모니터링 되어야 합니다.
 
 2) IaaS(Infrastructure as a Service)
