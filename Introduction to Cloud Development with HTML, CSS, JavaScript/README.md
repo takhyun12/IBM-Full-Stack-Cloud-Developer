@@ -19,15 +19,10 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Final Project
 
+The application calculates the simple interest after the user enters the principle, interest rate and the duration in years. For example, if the user enters 1000000 as amount, 3.5 as rate of interest and 5 as No. of years, the following message is shown after the user clicks on the "Compute Interest" button.
+
 ![final project](https://user-images.githubusercontent.com/41291493/110493267-f21a6d00-8135-11eb-9136-1cde305b64fb.png)
-- 
 
-## Note
-
-```
-내용작성 
-내용작성
-```
 
 ## Credit
 
