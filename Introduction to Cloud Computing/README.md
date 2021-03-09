@@ -70,4 +70,4 @@ hybrid cloud : 온-프레미스 인프라(또는 프라이빗 클라우드)를 �
 
 ## Credit
 * [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/ARUZJ5MFXRY7)
+* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/B9JWRTZNP6XX)
