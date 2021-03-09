@@ -18,7 +18,7 @@ This Professional Certificate will equip you with all the key skills and technic
 
 ## Table of Contents
 
-1. Introduction to `Cloud Computing`
+1. [Introduction to `Cloud Computing`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Introduction%20to%20Cloud%20Computing)
 2. Introduction to Cloud Development with `HTML, CSS, JavaScript`
 3. Developing `Cloud Native Applications`
 4. Developing Cloud Apps with `Node.js` and `React`
