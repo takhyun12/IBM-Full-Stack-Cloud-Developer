@@ -8,6 +8,7 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/110476645-8cbe8000-8125-11eb-8dda-7a846ac6a396.png)
 
 ## Learning Objectives
 * Overview of Cloud Computing `week 1`
