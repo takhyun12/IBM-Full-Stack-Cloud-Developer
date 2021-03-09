@@ -19,6 +19,7 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Final Project
 
+![final project](https://user-images.githubusercontent.com/41291493/110493267-f21a6d00-8135-11eb-9136-1cde305b64fb.png)
 - 
 
 ## Note
