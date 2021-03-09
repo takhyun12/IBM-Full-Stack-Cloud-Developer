@@ -19,7 +19,7 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Final Project
 
-- Introduction to Programming for the Cloud `week 1`
+- 
 
 ## Note
 
