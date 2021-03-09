@@ -4,7 +4,7 @@ Certificate of the course that is offered at Coursera and IBM.
 
 #### Author: Tackhyun Jung
 
-#### Status: Completed
+#### Status: ~ing
 
 This repository is created to keep track of [Introduction to Cloud Development with HTML, CSS, JavaScript](https://www.coursera.org/learn/introduction-to-cloud-development-with-html-css-javacript) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
