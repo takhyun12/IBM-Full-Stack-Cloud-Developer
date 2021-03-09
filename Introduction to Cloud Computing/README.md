@@ -67,5 +67,5 @@ hybrid cloud : 온-프레미스 인프라(또는 프라이빗 클라우드)를 �
 ```
 
 ## Credit
-* [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data)
+* [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 * [Certification-Link](https://www.coursera.org/account/accomplishments/verify/ARUZJ5MFXRY7)
