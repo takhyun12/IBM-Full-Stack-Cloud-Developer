@@ -16,15 +16,6 @@ This Professional Certificate will equip you with all the key skills and technic
 
 ---
 
-## Assignment
-IBM provides a Continuous Delivery service along with an integrated set of tools to build, deploy and manage your applications. Continuous Delivery automatically runs the build and deploy tasks when you commit changes to the Git repository (repo). 
-
-I developed CI/CD Pipeline as a challenge through Continuous Delivery from IBM.
-
-
-
----
-
 ## Table of Contents
 
 1. [Introduction to `Cloud Computing`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Introduction%20to%20Cloud%20Computing)
