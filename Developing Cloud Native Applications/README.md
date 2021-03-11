@@ -20,8 +20,10 @@ This educational program is developed by IBM and designed to teach how to progra
 - Introduction to Data Services in IBM Cloud `week 6`
 - Final Project `week 7`
 
-## Final Project
+## Assignment
+IBM provides a Continuous Delivery service along with an integrated set of tools to build, deploy and manage your applications. Continuous Delivery automatically runs the build and deploy tasks when you commit changes to the Git repository (repo). 
 
+I developed CI/CD Pipeline as a challenge through Continuous Delivery from IBM.
 
 ## Note
 
