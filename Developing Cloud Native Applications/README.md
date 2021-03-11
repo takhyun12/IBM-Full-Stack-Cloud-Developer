@@ -25,6 +25,10 @@ IBM provides a Continuous Delivery service along with an integrated set of tools
 
 I developed CI/CD Pipeline as a challenge through Continuous Delivery from IBM.
 
+![CICD](https://user-images.githubusercontent.com/41291493/110789769-97a71b00-82b3-11eb-8484-e33299e7c312.png)
+
+![Bucket_details](https://user-images.githubusercontent.com/41291493/110789762-9675ee00-82b3-11eb-941b-95bc4da14265.png)
+
 ## Note
 
 ```
