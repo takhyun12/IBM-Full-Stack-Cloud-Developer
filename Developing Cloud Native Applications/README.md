@@ -10,6 +10,8 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Developing Cloud Native Applications](https://www.coursera.org/learn/developing-cloud-native-applications) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/110870300-83910700-830f-11eb-97ef-cb979b3b3f79.png)
+
 ## Learning Objectives
 
 - Introduction to Cloud Native `week 1`
