@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <%- include('head', {title: 'Movie Database - Reviews'}); %>
+  </head>
+
+  <body>
+    <%- include('header'); %>
+
+    <section class="section">
+      <div class="container is-fluid">
+        <h1 class="is-size-1 p-6">Current Reviews</h1>
+
+        <% if (msg.errors) { %>
+          <div class="content">
+            <h1 style="color: red">Errors:</h1>
+            <ol type="1">
+              <% msg.errors.forEach(function(error){ %>
+              <li style="color: red"><%= error %></li>
+              <%});%>
+            </ol>
+          </div>
+        <% } else { %>
+        <% msg.result.forEach(function(review){ %>
+        <div class="tile is-ancestor">
+          <div class="tile is-parent">
+              <% if(review.doc.sentiment === 'positive') {%>
+                <article class="tile is-child box notification is-primary">
+              <% } else if(review.doc.sentiment === 'negative') {%>
+                <article class="tile is-child box notification is-danger">
+              <% } else { %>
+                <article class="tile is-child box">
+              <% } %>
+              <p class="title"><%= review.doc.movie %></p>
+              <p class="subtitle">
+                <%= review.doc.firstName %> <%= review.doc.lastName %>
+              </p>
+              <div class="content">
+                <%= review.doc.review %>
+              </div>
+            </article>
+          </div>
+        </div>
+        <% })} %>
+      </div>
+    </section>
+    <%- include('footer'); %>
+  </body>
+</html>

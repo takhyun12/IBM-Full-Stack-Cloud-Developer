@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <%- include('head', {title: 'Movie Database - Movie Database v2.0'}); %>
+  </head>
+
+  <body>
+    <%- include('header'); %>
+
+    <section class="section">
+      <div class="container is-fluid">
+        <% if (msg.errors) { %>
+        <div class="content">
+          <h1 style="color: red">Errors:</h1>
+          <ol type="1">
+            <% msg.errors.forEach(function(error){ %>
+            <li style="color: red"><%= error %></li>
+            <%});%>
+          </ol>
+        </div>
+        <form action="" method="POST">
+
+        <%} else {%>
+        <form action="/reviews" method="POST">
+          <% } %>
+          <div class="field">
+            <label class="label">First Name</label>
+            <div class="control">
+              <input
+                class="input"
+                type="text"
+                id="first_name"
+                name="first_name"
+              />
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="label">Last Name</label>
+            <div class="control">
+              <input
+                class="input"
+                type="text"
+                id="last_name"
+                name="last_name"
+              />
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="label">Movie</label>
+            <div class="control">
+              <div class="select">
+                <select id="movie" name="movie">
+                  <option>Captain America: The First Avenger</option>
+                  <option>Iron Man</option>
+                  <option>The Incredible Hulk</option>
+                  <option>Thor</option>
+                  <option>Captain America: The Winter Soldier</option>
+                  <option>Guardians of the Galaxy</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="label">Review</label>
+            <div class="control">
+              <textarea
+                class="textarea"
+                placeholder="Enter your review here ..."
+                id="review"
+                name="review"
+              ></textarea>
+            </div>
+          </div>
+          <% if (!msg.errors) { %>
+          <div class="field is-grouped">
+            <div class="control">
+              <button class="button is-link" type="submit">Submit</button>
+            </div>
+          </div>
+          <%}%>
+        </form>
+      </div>
+    </section>
+    <%- include('footer'); %>
+  </body>
+</html>
