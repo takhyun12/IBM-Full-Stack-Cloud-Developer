@@ -108,5 +108,5 @@ CI(지속적 통합)를 통해 개발자들은 코드 변경 사항을 공유 �
 
 ## Credit
 
-- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
+- [Developing Cloud Native Applications](https://www.coursera.org/learn/developing-cloud-native-applications)
 - [Certification-Link](https://www.coursera.org/account/accomplishments/verify/ARUZJ5MFXRY7)
