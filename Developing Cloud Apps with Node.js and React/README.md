@@ -22,7 +22,8 @@ I developed a new site that uses IBM Watson services to find sentiments and emot
 
 ![1](https://user-images.githubusercontent.com/41291493/111033992-ffe23200-8456-11eb-9213-208d9915ed7d.png)
 
-![2](https://user-images.githubusercontent.com/41291493/111033849-7e8a9f80-8456-11eb-8422-8a4c761296e2.png)
+![2](https://user-images.githubusercontent.com/41291493/111034025-1daf9700-8457-11eb-9394-73168b031d07.png)
+
 
 ## Note
 
