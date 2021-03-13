@@ -18,6 +18,9 @@ This educational program is developed by IBM and designed to teach how to progra
 - Final Assignment `week 5`
 
 ## Assignment
+![1](https://user-images.githubusercontent.com/41291493/111033848-7d597280-8456-11eb-9406-5ebbc46cc933.png)
+
+![2](https://user-images.githubusercontent.com/41291493/111033849-7e8a9f80-8456-11eb-8422-8a4c761296e2.png)
 
 ## Note
 
