@@ -18,7 +18,6 @@ This educational program is developed by IBM and designed to teach how to progra
 * Cloud Security and Monitoring, Case Studies, and Jobs `week 5`
 
 ## Assignment
-[Deploying Web Services with IBM Cloud Environment](https://cloud-object-storage-wv-cos-standard-u87.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html)
 
 ![ibm cloud](https://user-images.githubusercontent.com/41291493/110405028-49332a00-80c3-11eb-863b-811cf03cf881.png)
 
