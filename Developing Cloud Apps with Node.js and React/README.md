@@ -20,7 +20,7 @@ This educational program is developed by IBM and designed to teach how to progra
 ## Assignment
 I developed a new site that uses IBM Watson services to find sentiments and emotions in text. The application was built using Express.js in the back-end and React.js in the front-end application.
 
-![1](https://user-images.githubusercontent.com/41291493/111033848-7d597280-8456-11eb-9406-5ebbc46cc933.png)
+![1](https://user-images.githubusercontent.com/41291493/111033992-ffe23200-8456-11eb-9213-208d9915ed7d.png)
 
 ![2](https://user-images.githubusercontent.com/41291493/111033849-7e8a9f80-8456-11eb-8422-8a4c761296e2.png)
 
