@@ -24,6 +24,10 @@ To start, I did deploy a simple guestbook application that uses in-memory storag
 
 Afterward, I did deploy a multi-tier web application that consists of a web front end, a Redis master and replicated slaves for storage, as well as an analyzer service that analyzes the tone of entries left in the guestbook. 
 
+![web](https://user-images.githubusercontent.com/41291493/111073218-456b3180-8521-11eb-8a11-833b56628860.png)
+
+![pod](https://user-images.githubusercontent.com/41291493/111073216-44d29b00-8521-11eb-9aeb-fe03e648b52a.png)
+
 ## Note
 
 ```
