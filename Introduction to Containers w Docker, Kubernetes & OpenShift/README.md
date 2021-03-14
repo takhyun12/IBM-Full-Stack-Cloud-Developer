@@ -18,7 +18,11 @@ This educational program is developed by IBM and designed to teach how to progra
 - Final Assignment `week 5`
 
 ## Assignment
+This final assignment is a project that use many of the tools and concepts that I've learned so far in this course. This project is conducted on an OpenShift cluster.
 
+To start, I did deploy a simple guestbook application that uses in-memory storage to retain the guestbook entries. 
+
+Afterward, I did deploy a multi-tier web application that consists of a web front end, a Redis master and replicated slaves for storage, as well as an analyzer service that analyzes the tone of entries left in the guestbook. 
 
 ## Note
 
