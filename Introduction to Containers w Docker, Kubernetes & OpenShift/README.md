@@ -80,4 +80,4 @@ Istio는 Istio를 Kubernetes 클러스터와 직접 통합하는 관리형 추�
 ## Credit
 
 - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift?)
-- [Certification-Link]
+- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/E4DRFFZHAUYT)
