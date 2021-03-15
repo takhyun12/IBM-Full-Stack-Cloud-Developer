@@ -9,6 +9,8 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift?) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certification](https://user-images.githubusercontent.com/41291493/111091172-6b222600-8575-11eb-874b-cf29cb272508.png)
+
 ## Learning Objectives
 
 - Understanding the Benefits of Containers `week 1`
