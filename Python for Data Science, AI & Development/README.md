@@ -10,7 +10,7 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
-![Certificate](https://user-images.githubusercontent.com/41291493/110870300-83910700-830f-11eb-97ef-cb979b3b3f79.png)
+![Certificate](https://user-images.githubusercontent.com/41291493/111154483-9d17a480-85d6-11eb-8f8a-a40963c3c440.png)
 
 ## Learning Objectives
 
