@@ -10,9 +10,7 @@ This repository is created to keep track of [Python Project for AI & Application
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
 ## Assignment
-In this project I did used the IBM Watson APIs to create two language translators. English to French and English to German. 
-
-I did writing unit tests to test the functionality of the code I have written. 
+In this project, I did used the IBM Watson APIs to create two language translators. English to French and English to German. I did writing unit tests to test the functionality of the code I have written. 
 
 My code got a perfect score on the peer-review :)
 
