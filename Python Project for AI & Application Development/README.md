@@ -11,6 +11,10 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ![Certificate](https://user-images.githubusercontent.com/41291493/111328806-ea1c7900-86b1-11eb-9885-d29a51282094.png)
 
+## Learning Objectives
+- Python Project for Application Development `week 1`
+- Final Assignment `week 1`
+
 ## Assignment
 In this project, I did used the IBM Watson APIs to create two language translators. English to French and English to German. I did writing unit tests to test the functionality of the code I have written. 
 
