@@ -26,7 +26,7 @@ This Professional Certificate will equip you with all the key skills and technic
 4. [Developing Cloud Apps with `Node.js` and `React`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Developing%20Cloud%20Apps%20with%20Node.js%20and%20React)
 5. [Introduction to Containers w/ `Docker`, `Kubernetes` & `OpenShift`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Introduction%20to%20Containers%20w%20Docker%2C%20Kubernetes%20%26%20OpenShift)
 6. [Python for `Data Science`, `AI` & Development](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-7. Python Project for `AI` & Application Development
+7. [Python Project for `AI` & Application Development](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Python%20Project%20for%20AI%20%26%20Application%20Development)
 8. Developing Applications with `SQL`, `Databases`, and `Django`
 9. Application Development using `Microservices` and `Serverless`
 10. Full Stack Cloud Development `Capstone Project`
