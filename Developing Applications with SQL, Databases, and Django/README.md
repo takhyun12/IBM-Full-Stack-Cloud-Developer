@@ -46,10 +46,10 @@ NoSQL의 특징
 NoSQL의 종류
 - Key Value DB : Key와 Value의 쌍으로 데이터가 저장되는 가장 단순한 형태의 모델. 예) Riak, Vodemort, Tokyo
 - Wide Columnar Store : Key Value 에서 발전된 형태의 Column Family 데이터 모델. 예) HBase, Cassandra, ScyllaDB
-- Document DB : JSON, XML과 같은 Collection 데이터 모델ongoDB, CoughDB가 이 종류에 해당합니다.
-- Graph DB
-Euler & Graph Theory에서 유래한 DB입니다. Nodes, Relationship, Key-Value 데이터 모델을 채용하고 있습니다. Neo4J, OreientDB 등의 제품이 있습니다.
-5) Object-Relational Mapping (ORM)
+- Document DB : JSON, XML과 같은 Collection 데이터 모델. 예) MongoDB, CoughDB
+- Graph DB : Nodes, Relationship, Key-Value 데이터 모델. 예) Neo4J, OreientDB
+
+3) Object-Relational Mapping (ORM)
 6) Django
 7) CRUD
 8) Django Model-View-Template Pattern
