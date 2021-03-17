@@ -29,8 +29,26 @@ This educational program is developed by IBM and designed to teach how to progra
 관계 (Relationships) : 관계는 테이블 간에 둘 다 존재한다. 이 관계들은 일대일, 일대다, 다대다, 이렇게 세 가지 형태로 이루어진다.
 트랜잭션(Transaction) : 데이터베이스의 상태를 변환시키는 하나의 논리적 기능을 수행하기 위한 작업의 단위 또는 한꺼번에 모두 수행되어야 할 일련의 연산을 의미한다.
 
-3) SELECT, INSERT, UPDATE, COUNT, DISTINCT, LIMIT
-4) NoSQL
+2) NoSQL(Not Only SQL)
+인터넷이 활성화되고, 소셜네트워크 서비스 등이 등장하면서 관계형 데이터 또는 정형데이터가 아닌 데이터, 
+즉 비정형데이터라는 것을 보다 쉽게 담아서 저장하고 처리할 수 있는 구조를 가진 데이터 베이스들이 관심을 받게 되어 NoSQL이 각광받고 있다.
+
+NoSQL의 특징
+- 관계형 모델을 사용하지 않으며 테이블간의 조인 기능 없음
+- 직접 프로그래밍을 하는 등의 비SQL 인터페이스를 통한 데이터 액세스
+- 대부분 여러 대의 데이터베이스 서버를 묶어서(클러스터링) 하나의 데이터베이스를 구성
+- 관계형 데이터베이스에서는 지원하는 Data처리 완결성(Transaction ACID 지원) 미보장
+- 데이터의 스키마와 속성들을 다양하게 수용 및 동적 정의 (Schema-less)
+- 데이터베이스의 중단 없는 서비스와 자동 복구 기능지원
+- 다수가 Open Source로 제공
+- 확장성, 가용성, 높은 성능
+
+NoSQL의 종류
+- Key Value DB : Key와 Value의 쌍으로 데이터가 저장되는 가장 단순한 형태의 모델. 예) Riak, Vodemort, Tokyo
+- Wide Columnar Store : Key Value 에서 발전된 형태의 Column Family 데이터 모델. 예) HBase, Cassandra, ScyllaDB
+- Document DB : JSON, XML과 같은 Collection 데이터 모델ongoDB, CoughDB가 이 종류에 해당합니다.
+- Graph DB
+Euler & Graph Theory에서 유래한 DB입니다. Nodes, Relationship, Key-Value 데이터 모델을 채용하고 있습니다. Neo4J, OreientDB 등의 제품이 있습니다.
 5) Object-Relational Mapping (ORM)
 6) Django
 7) CRUD
