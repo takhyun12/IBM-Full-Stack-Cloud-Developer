@@ -31,7 +31,7 @@ This educational program is developed by IBM and designed to teach how to progra
 
 2) NoSQL(Not Only SQL)
 인터넷이 활성화되고, 소셜네트워크 서비스 등이 등장하면서 관계형 데이터 또는 정형데이터가 아닌 데이터, 
-즉 비정형데이터라는 것을 보다 쉽게 담아서 저장하고 처리할 수 있는 구조를 가진 데이터 베이스들이 관심을 받게 되어 NoSQL이 각광받고 있다.
+즉 비정형데이터를 보다 쉽게 담아서 저장하고 처리할 수 있는 구조를 가진 데이터 베이스들이 관심을 받게 되어 NoSQL이 각광받고 있다.
 
 NoSQL의 특징
 - 관계형 모델을 사용하지 않으며 테이블간의 조인 기능 없음
@@ -49,7 +49,13 @@ NoSQL의 종류
 - Document DB : JSON, XML과 같은 Collection 데이터 모델. 예) MongoDB, CoughDB
 - Graph DB : Nodes, Relationship, Key-Value 데이터 모델. 예) Neo4J, OreientDB
 
-3) Object-Relational Mapping (ORM)
+3) Object-Relational Mapping (ORM) : 객체와 관계형 데이터베이스의 데이터를 자동으로 매핑(연결)해주는 것을 말한다.
+객체 지향 프로그래밍은 클래스를 사용하고, 관계형 데이터베이스는 테이블을 사용한다.
+
+ORM의 장점
+선언문, 할당, 종료 같은 부수적인 코드가 없거나 급격히 줄어든다.
+
+
 6) Django
 7) CRUD
 8) Django Model-View-Template Pattern
