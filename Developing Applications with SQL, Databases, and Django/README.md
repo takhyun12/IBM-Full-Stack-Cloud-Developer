@@ -67,14 +67,17 @@ ORM의 단점
 
 5) Django Model-View-Template Pattern
 장고는 파이썬으로 코딩한 모델을 관계형 데이터베이스로 구축해주는 모델(Model), HTTP 요청을 처리하는 웹 템플릿 시스템인 뷰(View), 
-URL의 라우팅을 처리하는 URL 컨트롤러 (Controller) 로 구성된 MVC 디자인 패턴을 따른다.
+URL의 라우팅을 처리하는 URL 컨트롤러 (Controller)로 구성된 MVC 디자인 패턴을 따른다.
 
 하지만 전통적인 MVC 디자인 패턴에서 이야기하는 컨트롤러의 기능을 프레임워크를 자체에서 하기 때문에,
 모델(Model), 템플릿(Template), 뷰(View)로 분류해 MTV 이라고 부른다.
 
-
 6) CRUD
-10) Bootstrap
+CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 묶어서 일컫는 말이다. 
+
+7) Bootstrap
+부트스트랩(Bootstrap)은 웹사이트를 쉽게 만들 수 있게 도와주는 HTML, CSS, JS 프레임워크이다. 
+하나의 CSS로 휴대폰, 태블릿, 데스크탑까지 다양한 기기에서 작동한다. 다양한 기능을 제공하여 사용자가 쉽게 웹사이트를 제작, 유지, 보수할 수 있도록 도와준다.
 ```
 
 ## Credit
