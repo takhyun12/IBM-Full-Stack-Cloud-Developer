@@ -25,7 +25,7 @@ This educational program is developed by IBM and designed to teach how to progra
 ```
 1) Relational Databases
 2) SELECT, INSERT, UPDATE, COUNT, DISTINCT, LIMIT
-3) PaaS(Platform as a Services
+3) NoSQL
 4) Object-Relational Mapping (ORM)
 5) Django
 6) CRUD
