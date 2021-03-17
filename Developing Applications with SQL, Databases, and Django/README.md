@@ -65,7 +65,12 @@ ORM의 단점
 고도의 데이터베이스 기반 웹사이트를 작성하는 데 있어서 수고를 더는 것이 장고의 주된 목표이다.
 컴포넌트의 재사용성(reusability)과 플러그인화 가능성(pluggability), 빠른 개발 등이 주된 특징이다.
 
-8) Django Model-View-Template Pattern
+5) Django Model-View-Template Pattern
+장고는 파이썬으로 코딩한 모델을 관계형 데이터베이스로 구축해주는 모델(Model), HTTP 요청을 처리하는 웹 템플릿 시스템인 뷰(View), 
+URL의 라우팅을 처리하는 URL 컨트롤러 (Controller) 로 구성된 MVC 디자인 패턴을 따른다.
+
+하지만 전통적인 MVC 디자인 패턴에서 이야기하는 컨트롤러의 기능을 프레임워크를 자체에서 하기 때문에 모델(Model), 템플릿(Template), 뷰(View)로 분류해 MTV 이라 
+
 
 6) CRUD
 10) Bootstrap
