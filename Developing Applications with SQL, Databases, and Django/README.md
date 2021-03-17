@@ -1,4 +1,4 @@
-# Introduction to Cloud Computing
+# Developing Applications with SQL, Databases, and Django
 
 Certificate of the course that is offered at Coursera and IBM.
 
@@ -6,22 +6,19 @@ Certificate of the course that is offered at Coursera and IBM.
 
 #### Status: Completed
 
-This repository is created to keep track of [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud) provided by Coursera.
+This repository is created to keep track of [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django?) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
 ## Learning Objectives
 
-- Overview of Cloud Computing `week 1`
-- Cloud Computing Models `week 2`
-- Components of Cloud Computing `week 3`
-- Emergent Trends and Practices `week 4`
-- Cloud Security and Monitoring, Case Studies, and Jobs `week 5`
+- Getting Started with SQL & Relational Databases `week 1`
+- ORM: Bridging the Gap Between the Real World and Relational Model `week 2`
+- Full-stack Django Development `week 3`
+- Consolidate and Deploy Your Django App `week 4`
+- Final Project: Enhance Online Course App with New Features `week 5`
 
 ## Assignment
 
-[Deploying Web Services with IBM Cloud Environment](https://cloud-object-storage-wv-cos-standard-u87.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html)
-
-![ibm cloud](https://user-images.githubusercontent.com/41291493/110405028-49332a00-80c3-11eb-863b-811cf03cf881.png)
 
 ## Note
 
@@ -71,5 +68,5 @@ hybrid cloud : 온-프레미스 인프라(또는 프라이빗 클라우드)를 �
 
 ## Credit
 
-- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/ARUZJ5MFXRY7)
+- [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django?)
+- [Certification-Link]
