@@ -83,4 +83,4 @@ CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이�
 ## Credit
 
 - [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django?)
-- [Certification-Link]
+- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/EBC7FMWLP775)
