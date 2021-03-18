@@ -9,6 +9,8 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django?) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/111605183-6f6e6d80-8819-11eb-930c-0b25389b425a.png)
+
 ## Learning Objectives
 
 - Getting Started with SQL & Relational Databases `week 1`
@@ -18,6 +20,8 @@ This educational program is developed by IBM and designed to teach how to progra
 - Final Project: Enhance Online Course App with New Features `week 5`
 
 ## Assignment
+
+![onlinecourse_app_er](https://user-images.githubusercontent.com/41291493/111605193-709f9a80-8819-11eb-9f91-35211c0b26e8.png)
 
 
 ## Note
