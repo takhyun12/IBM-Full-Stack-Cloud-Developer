@@ -9,6 +9,8 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Developing Cloud Apps with Node.js and React](https://www.coursera.org/learn/node-js) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/111711070-4fc55c80-888e-11eb-87eb-4d7249f8948e.png)
+
 ## Learning Objectives
 
 - Introduction to Server-Side JavaScript `week 1`
