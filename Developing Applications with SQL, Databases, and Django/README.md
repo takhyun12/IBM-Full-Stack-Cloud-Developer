@@ -21,6 +21,8 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Assignment
 
+I did my Django full-stack skills to design and implement models, templates, and views. 
+
 ![onlinecourse_app_er](https://user-images.githubusercontent.com/41291493/111605193-709f9a80-8819-11eb-9f91-35211c0b26e8.png)
 
 
