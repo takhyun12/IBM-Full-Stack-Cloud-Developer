@@ -78,7 +78,16 @@ FaaS 는 프로젝트를 여러개의 함수로 쪼개서 (혹은 한개의 함�
 장점 : 함수 호출단위로 비용을 청구하기 때문에 가격이 저렴함, 인프라 관리를 하지 않아도 됨
 단점 : 함수로 사용할 수 있는 자원(컴퓨팅 파워)에 제한이 있음, Faas 제공사에 종속됨
 
-6) Microservices with OpenShift
+6) OpenShift
+Red Hat OpenShift®는 자동화된 풀스택 오퍼레이션으로 하이브리드 클라우드 및 멀티클라우드 배포를 관리하는 쿠버네티스, 컨테이너 플랫폼입니다.
+
+Red Hat OpenShift는 강력한 컨테이너 클러스터 관리 및 Docker와 Kubernetes와 같은 기술을 기본적으로 통합하고,
+이를 Red Hat Enterprise Linux에서 엔터프라이즈 기반에 결합하는 전체 컨테이너 애플리케이션 플랫폼입니다.
+
+이러한 Red Hat OpenShift 기반의 Red Hat Middleware는 모든 환경과 애플리케이션 라이프사이클 전반에 걸쳐 클라우드 네이티브 애플리케이션을
+배포, 제공, 확장할 수 있도록 일관되고 통합된 환경을 제공합니다. 
+
+7) Microservices with OpenShift
 
 ```
 
