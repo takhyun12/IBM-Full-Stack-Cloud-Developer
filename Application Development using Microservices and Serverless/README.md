@@ -23,7 +23,9 @@ I did my serverless and microservices skills and put them into action in a proje
 
 Below is the architecture for one version which uses object storage to host the site's files.
 
+![cGa_C5QES16mvwuUBFtePg_71cdc35e8e41454c9d7605f348d4df35_Final-Project-Architecture](https://user-images.githubusercontent.com/41291493/111899311-29124c00-8a6f-11eb-9b1b-6b650e01973c.png)
 
+![task](https://user-images.githubusercontent.com/41291493/111899312-29aae280-8a6f-11eb-81a3-832fbfa12309.png)
 
 
 ## Note
