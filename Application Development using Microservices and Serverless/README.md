@@ -19,6 +19,11 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Assignment
 
+I did my serverless and microservices skills and put them into action in a project that combines these technologies into a single web application. I did create a serverless web application -- a simple guestbook website where users can post messages -- and I did host the website in two different ways.
+
+Below is the architecture for one version which uses object storage to host the site's files.
+
+
 
 
 ## Note
