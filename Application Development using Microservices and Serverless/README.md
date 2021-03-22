@@ -25,6 +25,11 @@ Below is the architecture for one version which uses object storage to host the 
 
 ![cGa_C5QES16mvwuUBFtePg_71cdc35e8e41454c9d7605f348d4df35_Final-Project-Architecture](https://user-images.githubusercontent.com/41291493/111899311-29124c00-8a6f-11eb-9b1b-6b650e01973c.png)
 
+- Deploy a serverless backend and a database
+- Expose a rest API
+- Host a static website using object storage
+- Deploy the static website as a microservice on Red Hat OpenShift
+
 ![task](https://user-images.githubusercontent.com/41291493/111899312-29aae280-8a6f-11eb-81a3-832fbfa12309.png)
 
 
