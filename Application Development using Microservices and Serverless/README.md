@@ -9,6 +9,8 @@ Certificate of the course that is offered at Coursera and IBM.
 This repository is created to keep track of [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift) provided by Coursera.
 This educational program is developed by IBM and designed to teach how to program in cloud computing environment.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/112304644-10a96800-8ce1-11eb-8da0-97542160f578.png)
+
 ## Learning Objectives
 
 - Introduction to MicroServices `week 1`
