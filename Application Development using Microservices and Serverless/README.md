@@ -108,4 +108,4 @@ Red Hat OpenShift는 강력한 컨테이너 클러스터 관리 및 Docker와 Ku
 ## Credit
 
 - [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift)
-- [Certification-Link]
+- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/EJJEKZMTK8HY)
