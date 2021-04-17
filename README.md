@@ -2,7 +2,7 @@
 
 #### Author: Tackhyun Jung
 
-#### Status: ~ing
+#### Status: Completed
 
 This repository is created to keep track of [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) provided by Coursera. This educational program is developed by IBM and designed to teach how to program in `cloud computing` environment.
 
