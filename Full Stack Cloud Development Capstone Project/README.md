@@ -21,18 +21,36 @@ This educational program is developed by IBM and designed to teach how to progra
 - Share Your Project `week 6`
 
 ## Assignment
-
-I did my serverless and microservices skills and put them into action in a project that combines these technologies into a single web application. I did create a serverless web application -- a simple guestbook website where users can post messages -- and I did host the website in two different ways.
-
-Below is the architecture for one version which uses object storage to host the site's files.
+For me, It was a great experience to use all the skills I've learned so far. Thank you, IBM.
 
 ![assignment](https://user-images.githubusercontent.com/41291493/115117331-eba2cf00-9fd8-11eb-8c10-ceb4ce9291aa.png)
 
-
-- Deploy a serverless backend and a database
-- Expose a rest API
-- Host a static website using object storage
-- Deploy the static website as a microservice on Red Hat OpenShift
+- Sign up for an IBM Cloud Lite account and create an IBM Cloudant service instance.
+- Create a Watson Natural Language Understanding (NLU) service instance.
+- Create a GitHub repository and clone a skeleton Django application to start building your own application.
+- Add navigation to your website using Bootstrap.
+- Create and add static pages to your website.
+- Test and deploy your Django application on IBM Cloud Foundry.
+- Create a superuser for your Django Admin site.
+- Create and add user login, logout, and signup menu items to the navigation bar.
+- Create new login and logout views to handle login and logout requests.
+- Create a signup view to register a new user.
+- Use GitHub actions to build, test, and deploy your application.
+- Add CI/CD to your project using GitHub actions.
+- Deploy your application to IBM Cloud Foundry using CI/CD.
+- Create database using Cloudant UI.
+- Load data from a JSON file into the Cloudant database.
+- Create backend services for your Django application using Python and Javascript.
+- Create data models in your Django application.
+- Create proxy services to call cloud functions in Django.
+- Create frontend pages to present backend services to end users.
+- Create a dealership list template and update the dealership list view.
+- Create a dealer details/reviews template and update the dealership detail view.
+- Create a review submission page and add a submission view.
+- Containerize your Django application.
+- Build your container image locally and push it to the IBM container registry.
+- Add deployment.yaml file.
+- Deploy Django application to the Kubernetes lab environment.
 
 ## Credit
 
