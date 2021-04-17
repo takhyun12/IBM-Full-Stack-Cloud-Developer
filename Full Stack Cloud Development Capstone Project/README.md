@@ -13,11 +13,12 @@ This educational program is developed by IBM and designed to teach how to progra
 
 ## Learning Objectives
 
-- Introduction to MicroServices `week 1`
-- Introduction to Serverless `week 2`
-- ORM: MicroServices w/ Serverless `week 3`
-- OpenShift Essentials/Working with OpenShift and Istio `week 4`
-- Final Project(Assignment) `week 5`
+- Application - Static Pages `week 1`
+- Application - User Management and CI/CD `week 2`
+- Back End Services `week 3`
+- Application - Dynamic Pages (React.js) `week 4`
+- Containerize & Deploy to Kubernetes `week 5`
+- Share Your Project `week 6`
 
 ## Assignment
 
@@ -25,14 +26,13 @@ I did my serverless and microservices skills and put them into action in a proje
 
 Below is the architecture for one version which uses object storage to host the site's files.
 
-![cGa_C5QES16mvwuUBFtePg_71cdc35e8e41454c9d7605f348d4df35_Final-Project-Architecture](https://user-images.githubusercontent.com/41291493/111899311-29124c00-8a6f-11eb-9b1b-6b650e01973c.png)
+![assignment](https://user-images.githubusercontent.com/41291493/115117331-eba2cf00-9fd8-11eb-8c10-ceb4ce9291aa.png)
+
 
 - Deploy a serverless backend and a database
 - Expose a rest API
 - Host a static website using object storage
 - Deploy the static website as a microservice on Red Hat OpenShift
-
-![task](https://user-images.githubusercontent.com/41291493/111899312-29aae280-8a6f-11eb-81a3-832fbfa12309.png)
 
 ## Credit
 
