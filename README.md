@@ -31,7 +31,7 @@ This Professional Certificate will equip you with all the key skills and technic
 7. [Python Project for `AI` & Application Development](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Python%20Project%20for%20AI%20%26%20Application%20Development)
 8. [Developing Applications with `SQL`, `Databases`, and `Django`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Developing%20Applications%20with%20SQL%2C%20Databases%2C%20and%20Django)
 9. [Application Development using `Microservices` and `Serverless`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/tree/main/Application%20Development%20using%20Microservices%20and%20Serverless)
-10. [Full Stack Cloud Development `Capstone Project`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/blob/main/Full%20Stack%20Cloud%20Development%20Capstone%20Project/README.md)
+10. [Full Stack Cloud Development `Capstone Project`](https://github.com/takhyun12/IBM-Full-Stack-Cloud-Developer/blob/main/Full%20Stack%20Cloud%20Development%20Capstone%20Project)
 
 ---
 
